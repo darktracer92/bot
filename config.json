@@ -1,4 +1,4 @@
 {
-	"APP_ID": "change with heroku app key",
-	"TELEGRAM_API_KEY": "change with telegram api key"
+	"APP_ID": "zebiscavenger",
+	"TELEGRAM_API_KEY": "660199112:AAEaMb5jyp_pzlO2UX_n7CslyPWbe7kr8tY"
 }
